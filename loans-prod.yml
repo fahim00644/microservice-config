@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to fahimmohammed loans related prod APIs "
   contactDetails:
-    name: "Fahim - Prod Support"
+    name: "Fahim - Production Support"
     email: "fahim00644@gmail.com"
   onCallSupport:
     - (+91) 9999999999
