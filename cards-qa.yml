@@ -2,9 +2,9 @@ build:
   version: '2.0'
 
 cards:
-  message: "Welcome to fahimmohammed cards related QA APIs "
+  message: "Welcome to fahimmohammed cards related Qualification APIs "
   contactDetails:
-    name: "Fahim - QA Support"
+    name: "Fahim - Qualification Support"
     email: "fahim00644@gmail.com"
   onCallSupport:
     - (+91) 9999999999
