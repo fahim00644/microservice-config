@@ -2,7 +2,7 @@ build:
   version: '1.0'
 
 accounts:
-  message: "Welcome to fahimmohammed accounts related production APIs "
+  message: "Welcome to fahimmohammed accounts related prod APIs "
   contactDetails:
     name: "Fahim - Production Support"
     email: "{cipher}1f75180a5cdbacdec4b0c25e301611532925e9c87f9147ba95f71adb7bb0b75d6c229b21a46cefc4f43adaf82245b640"
