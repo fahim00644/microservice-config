@@ -2,7 +2,7 @@ build:
   version: '2.0'
 
 cards:
-  message: "Welcome to fahimmohammed cards related Qualification APIs "
+  message: "Welcome to fahimmohammed cards related Qualification APIs (Busrefresh check) "
   contactDetails:
     name: "Fahim - Qualification Support"
     email: "fahim00644@gmail.com"
